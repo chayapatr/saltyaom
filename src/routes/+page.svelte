@@ -70,26 +70,6 @@
     {
       link: 'https://www.facebook.com/AomKhunpanitchot/posts/pfbid02U71QTs4RQpNFu44fwNTkakQA3W6pGa7WYhu8cpnzF84rrJuktbnBQyQG47ZeD46Zl',
       img: 'https://media.discordapp.net/attachments/1034868245750108310/1034876298335629383/unknown.png'
-    },
-    {
-      link: 'https://www.facebook.com/photo.php?fbid=1883436695164328&set=pb.100004940473416.-2207520000.&type=3',
-      img: 'https://media.discordapp.net/attachments/1034868245750108310/1034876621481586708/unknown.png?width=854&height=1139'
-    },
-    {
-      link: 'https://www.facebook.com/photo.php?fbid=1862790157228982&set=pb.100004940473416.-2207520000.&type=3',
-      img: 'https://media.discordapp.net/attachments/1034868245750108310/1034876806358126633/unknown.png?width=964&height=1137'
-    },
-    {
-      link: 'https://www.facebook.com/media/set/?set=a.1884314428409888&type=3',
-      img: 'https://media.discordapp.net/attachments/519528670373871650/1034889625241665567/607BB5EB-6678-4B18-81FF-10AAA3AD7B0C.jpg'
-    },
-    {
-      link: 'https://twitter.com/saltyAom/status/1533009674261233666?s=20&t=pXC2MaHXgnbyxSjRtqi29g',
-      img: 'https://media.discordapp.net/attachments/519528670373871650/1034891262601474048/a.jpg'
-    },
-    {
-      link: 'https://www.facebook.com/media/set/?set=a.2103244999850162&type=',
-      img: 'https://media.discordapp.net/attachments/519528670373871650/1034891559243632700/274269184_2103241899850472_5388857807230932914_n.jpg'
     }
   ];
 </script>
