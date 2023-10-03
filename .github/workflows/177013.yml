@@ -1,0 +1,23 @@
+name: 177013
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  bruh:
+    name: Bruh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 177013
+        uses: CunnyDev/177013-commits@main
+        with:
+          git-name: SaltyAom
+          git-email: 35027979+SaltyAom@users.noreply.github.com
